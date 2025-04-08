@@ -11,6 +11,7 @@
 ![https://wa.me/55085981071102](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### Linguagens de programação que estou aprofundando:
+![vitor-brito-rocha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-brito-rocha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
